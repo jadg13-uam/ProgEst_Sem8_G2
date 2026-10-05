@@ -1,0 +1,4 @@
+Nombres: Carlos Uriel
+Apellidos: Peña Mendez
+Edad: 18
+Carrera: Lic. En Economia
